@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coeding/static/css/main.78c6cf97.chunk.css",
+    "main.js": "/coeding/static/js/main.de22e26f.chunk.js",
+    "main.js.map": "/coeding/static/js/main.de22e26f.chunk.js.map",
+    "runtime-main.js": "/coeding/static/js/runtime-main.e79c5043.js",
+    "runtime-main.js.map": "/coeding/static/js/runtime-main.e79c5043.js.map",
+    "static/js/2.e0c3e684.chunk.js": "/coeding/static/js/2.e0c3e684.chunk.js",
+    "static/js/2.e0c3e684.chunk.js.map": "/coeding/static/js/2.e0c3e684.chunk.js.map",
+    "index.html": "/coeding/index.html",
+    "precache-manifest.7ee3cdc6581e903767dae819ce336b8e.js": "/coeding/precache-manifest.7ee3cdc6581e903767dae819ce336b8e.js",
+    "service-worker.js": "/coeding/service-worker.js",
+    "static/css/main.78c6cf97.chunk.css.map": "/coeding/static/css/main.78c6cf97.chunk.css.map",
+    "static/js/2.e0c3e684.chunk.js.LICENSE.txt": "/coeding/static/js/2.e0c3e684.chunk.js.LICENSE.txt",
+    "static/js/main.de22e26f.chunk.js.LICENSE.txt": "/coeding/static/js/main.de22e26f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e79c5043.js",
+    "static/js/2.e0c3e684.chunk.js",
+    "static/css/main.78c6cf97.chunk.css",
+    "static/js/main.de22e26f.chunk.js"
+  ]
+}
